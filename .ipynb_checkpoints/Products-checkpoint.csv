@@ -1,0 +1,453 @@
+﻿ProductID;ProductName;Price;CategoryID;Class;ModifyDate;Resistant;IsAllergic;VitalityDays
+1;Flour - Whole Wheat;742,988;3;Medium;21:49.2;Durable;NULL;NULL
+2;Cookie Chocolate Chip With;912,329;3;Medium;39:11.0;NULL;NULL;NULL
+3;Onions - Cippolini;91,379;9;Medium;11:51.6;Weak;False;111
+4;Sauce - Gravy, Au Jus, Mix;543,055;9;Medium;46:28.9;Durable;NULL;NULL
+5;Artichokes - Jerusalem;654,771;2;Low;13:35.4;Durable;True;27
+6;Wine - Magnotta - Cab Sauv;797,184;8;High;08:39.7;NULL;NULL;NULL
+7;Table Cloth - 53x69 Colour;31,837;9;Medium;14:30.0;Durable;False;NULL
+8;Halibut - Steaks;898,573;5;Medium;21:21.9;NULL;True;108
+9;Rabbit - Whole;844,219;11;Medium;12:04.7;Durable;NULL;NULL
+10;Scampi Tail;950,957;4;Low;11:46.0;Weak;True;105
+11;Garbage Bags - Clear;62,949;9;Low;02:21.3;Durable;True;67
+12;Ezy Change Mophandle;493,356;4;Medium;49:59.0;Durable;True;NULL
+13;Water, Tap;282,232;11;Low;49:10.9;Durable;False;69
+14;Beef - Top Sirloin;33,324;7;Medium;40:47.8;Durable;True;NULL
+15;Spoon - Soup, Plastic;32,442;1;Low;47:09.3;Weak;True;NULL
+16;Kellogs Special K Cereal;547,246;2;Low;25:47.1;Durable;True;NULL
+17;Wine - White, Mosel Gold;439,182;10;Medium;03:04.9;NULL;NULL;NULL
+18;Lamb - Whole, Fresh;233,966;10;Medium;45:04.7;NULL;False;NULL
+19;Tea - Earl Grey;225,614;3;Medium;39:53.3;Weak;True;94
+20;Chocolate - Feathers;859,011;3;Low;13:57.5;Durable;True;NULL
+21;Kiwi;467,252;7;High;59:46.1;Durable;NULL;NULL
+22;Rice - Jasmine Sented;278,955;6;Medium;08:23.6;Weak;NULL;48
+23;Crab - Imitation Flakes;790,184;11;Medium;18:29.9;Durable;True;NULL
+24;Beer - Alexander Kieths, Pale Ale;89,037;3;Medium;36:02.4;Durable;True;65
+25;Soupcontfoam16oz 116con;807,666;10;High;30:41.2;Durable;True;NULL
+26;Squid U5 - Thailand;337,821;11;Medium;31:27.0;Weak;False;10
+27;Chocolate - Compound Coating;171,724;1;Medium;27:27.3;NULL;NULL;86
+28;Sobe - Tropical Energy;123,153;9;High;23:48.2;Durable;True;NULL
+29;Spinach - Baby;335,883;7;Low;21:24.0;Durable;True;50
+30;Cheese - Brie, Triple Creme;67,899;6;Low;28:46.7;Weak;NULL;72
+31;Yeast Dry - Fermipan;739,851;2;Medium;33:06.1;Durable;False;NULL
+32;Lettuce - Treviso;964,127;3;High;29:05.8;Durable;True;NULL
+33;Beans - Wax;455,551;10;Medium;20:22.9;Weak;True;NULL
+34;Mustard Prepared;433,463;6;Medium;05:20.8;Weak;NULL;7
+35;Water - Mineral, Natural;157,233;6;Low;36:07.1;Durable;True;97
+36;Table Cloth 54x72 White;692,574;9;Low;24:57.5;Durable;True;NULL
+37;Nut - Pistachio, Shelled;803,171;7;Low;01:39.1;NULL;False;NULL
+38;Sage - Ground;816,579;6;High;45:35.6;Weak;False;NULL
+39;Dried Figs;752,059;11;Medium;51:44.3;Weak;False;120
+40;Cocktail Napkin Blue;89,372;8;Low;05:34.4;NULL;NULL;NULL
+41;Cup - 6oz, Foam;81,721;7;Medium;02:55.9;NULL;True;NULL
+42;Bread - Raisin Walnut Oval;810,488;1;High;39:17.3;Weak;False;NULL
+43;Sponge Cake Mix - Chocolate;163,983;9;High;40:16.8;Weak;True;96
+44;Wine - White, Colubia Cresh;485,981;7;High;28:48.4;Durable;True;NULL
+45;Beef - Ground Medium;795,324;4;Medium;00:00.4;Weak;True;NULL
+46;Lambcasing;867,915;9;High;27:57.8;Durable;False;NULL
+47;Thyme - Lemon, Fresh;471,339;9;High;50:46.8;Weak;False;NULL
+48;Pecan Raisin - Tarts;603,625;7;Low;31:03.2;NULL;NULL;114
+49;Bacardi Breezer - Tropical;614,317;8;High;21:41.9;Durable;False;NULL
+50;Pork - Kidney;432,864;7;High;02:16.2;Weak;True;NULL
+51;Wine - Crozes Hermitage E.;810,134;11;Medium;38:05.2;NULL;NULL;NULL
+52;Turnip - White, Organic;556,059;1;Low;39:03.8;Durable;False;NULL
+53;Cassis;926,279;8;Medium;42:44.9;Weak;True;NULL
+54;Liners - Banana, Paper;535,592;9;Medium;31:04.5;Weak;True;NULL
+55;Cinnamon Buns Sticky;66,182;3;High;20:42.0;NULL;False;85
+56;Chips Potato Salt Vinegar 43g;464,033;9;Low;13:25.6;Weak;False;NULL
+57;Sausage - Breakfast;122,145;3;Low;20:41.1;NULL;True;103
+58;Dc Hikiage Hira Huba;201,009;7;Low;35:49.1;Durable;NULL;91
+59;Pastry - Butterscotch Baked;735,389;10;High;15:47.6;NULL;False;NULL
+60;Pepper - Paprika, Hungarian;316,949;2;Medium;42:08.5;Weak;NULL;NULL
+61;Sardines;62,546;8;Low;41:12.4;Durable;False;90
+62;Pears - Bosc;195,217;1;Medium;50:41.8;NULL;NULL;13
+63;Cake - Mini Cheesecake;562,689;9;Low;59:57.9;Weak;NULL;NULL
+64;Vinegar - Sherry;165,229;6;Low;43:17.9;NULL;True;94
+65;Brandy - Bar;211,106;3;High;38:39.9;Weak;False;NULL
+66;Pie Filling - Cherry;98,823;7;Medium;33:15.5;Weak;False;NULL
+67;Wine - Sogrape Mateus Rose;37,805;5;Low;29:36.2;NULL;True;108
+68;Beets - Candy Cane, Organic;848,769;6;High;43:50.1;Durable;False;72
+69;Raspberries - Fresh;876,092;1;Low;04:40.8;NULL;True;NULL
+70;Squid - Tubes / Tenticles 10/20;631,846;4;Low;22:11.8;Weak;True;45
+71;Cheese - Wine;744,076;6;Low;24:08.0;Durable;NULL;NULL
+72;Bar - Granola Trail Mix Fruit Nut;622,603;4;High;17:29.3;Durable;False;NULL
+73;Appetizer - Sausage Rolls;481,907;11;Low;53:20.5;Weak;True;NULL
+74;Carbonated Water - Cherry;136,241;7;Medium;34:18.9;Durable;False;26
+75;Chef Hat 20cm;4,18;8;High;11:01.7;Durable;NULL;116
+76;Wine - Fume Blanc Fetzer;656,765;6;Low;20:28.9;Durable;False;95
+77;Potatoes - Idaho 100 Count;114,971;9;Medium;28:06.8;Durable;False;NULL
+78;Wine - Magnotta - Belpaese;304,202;4;Medium;49:41.4;Weak;NULL;NULL
+79;Pasta - Penne, Rigate, Dry;95,045;11;High;36:02.0;Weak;False;104
+80;Wasabi Powder;939,752;2;High;02:43.5;Weak;True;NULL
+81;Cookies - Assorted;866,483;2;Medium;40:40.2;NULL;NULL;NULL
+82;Jolt Cola - Electric Blue;568,099;5;Low;56:24.0;NULL;NULL;63
+83;Lamb - Ground;508,837;1;High;02:06.4;Durable;NULL;116
+84;Peas - Frozen;903,019;1;Medium;19:07.8;Durable;False;NULL
+85;Cheese - Parmesan Cubes;868,857;7;High;50:41.5;Durable;NULL;NULL
+86;Longos - Grilled Chicken With;183,791;2;Low;54:02.3;Weak;False;NULL
+87;Wine - Pinot Noir Latour;37,847;7;Low;46:20.8;NULL;False;NULL
+88;Remy Red;91,996;2;Low;49:18.4;Durable;NULL;NULL
+89;Beef - Ground, Extra Lean, Fresh;367,281;3;Medium;44:38.8;Weak;True;NULL
+90;Flavouring - Orange;69,32;9;High;22:41.5;NULL;True;37
+91;General Purpose Trigger;570,429;6;High;04:16.4;Durable;True;97
+92;Wine - Red, Colio Cabernet;602,161;1;Low;25:50.0;Weak;NULL;NULL
+93;Bandage - Fexible 1x3;8,119;8;Low;29:48.0;Durable;False;11
+94;V8 - Berry Blend;435,109;9;High;09:35.8;Weak;NULL;108
+95;Beans - Kidney White;463,913;1;High;24:22.0;NULL;NULL;NULL
+96;Cheese - Bocconcini;621,993;7;High;12:14.0;NULL;False;NULL
+97;Veal - Inside;247,798;4;Medium;39:19.4;Weak;True;NULL
+98;Shrimp - 31/40;998,755;3;High;56:58.9;Weak;False;NULL
+99;Mustard - Seed;274,874;5;Low;50:08.6;Weak;True;NULL
+100;Pork - Loin, Bone - In;696,501;9;Low;26:44.8;Durable;NULL;7
+101;Soup - Campbells, Lentil;83,011;4;Medium;58:21.6;Durable;NULL;99
+102;Rosemary - Primerba, Paste;62,257;4;High;06:56.7;NULL;False;NULL
+103;Cream Of Tartar;727,534;7;Low;26:22.5;NULL;NULL;NULL
+104;Tia Maria;982,471;5;High;59:30.0;NULL;False;NULL
+105;Ecolab - Mikroklene 4/4 L;688,789;1;Medium;38:08.2;Durable;True;NULL
+106;Pickerel - Fillets;18,753;7;High;20:35.9;Weak;False;19
+107;Bread - French Baquette;74,151;1;High;45:43.3;Weak;False;NULL
+108;Pasta - Orecchiette;790,038;1;High;08:26.0;Weak;True;NULL
+109;Muffin - Zero Transfat;493,791;1;Medium;20:02.8;Durable;False;NULL
+110;Black Currants;409,417;9;High;00:13.2;Durable;NULL;48
+111;Scallops 60/80 Iqf;349,061;11;Medium;45:18.7;Durable;NULL;NULL
+112;Browning Caramel Glace;817,943;10;High;30:59.6;Weak;NULL;NULL
+113;Ocean Spray - Kiwi Strawberry;105,964;7;Low;59:47.1;NULL;False;106
+114;Veal - Osso Bucco;795,638;8;High;13:04.1;Weak;True;93
+115;Ocean Spray - Ruby Red;450,466;11;Low;01:28.3;Weak;False;NULL
+116;Steam Pan - Half Size Deep;5,736;3;Low;44:48.4;Weak;True;104
+117;Ketchup - Tomato;68,638;11;High;48:35.5;Weak;NULL;NULL
+118;Garbag Bags - Black;65,967;9;High;40:50.1;Weak;NULL;NULL
+119;Soup Campbells - Italian Wedding;296,372;11;Medium;52:36.4;NULL;False;NULL
+120;Water - Spring Water 500ml;27,314;2;Medium;44:37.6;Durable;NULL;94
+121;Muffin Batt - Blueberry Passion;60,976;11;Low;46:54.7;Durable;NULL;NULL
+122;Table Cloth 62x114 White;117,845;4;High;40:17.8;Weak;False;NULL
+123;Oil - Shortening - All - Purpose;481,487;4;Low;59:11.3;NULL;NULL;NULL
+124;Macaroons - Two Bite Choc;182,891;4;Low;41:59.3;NULL;True;81
+125;Nut - Chestnuts, Whole;61,417;9;Low;17:55.4;Weak;False;NULL
+126;Crackers - Trio;141,914;6;Low;58:18.0;NULL;NULL;76
+127;Island Oasis - Mango Daiquiri;541,413;8;Medium;47:41.3;NULL;False;34
+128;Coffee - Irish Cream;46,797;2;Medium;43:44.7;Durable;NULL;71
+129;Chicken - Soup Base;672,329;7;High;09:56.9;Durable;True;NULL
+130;Beef Wellington;419,808;2;Low;58:47.6;NULL;False;NULL
+131;Anchovy Paste - 56 G Tube;408,967;3;Medium;41:09.5;Durable;False;NULL
+132;Beer - Blue;116,217;6;High;31:08.0;Weak;False;24
+133;Beef - Top Sirloin - Aaa;29,327;11;Low;59:32.9;Weak;NULL;NULL
+134;Wine - Toasted Head;398,545;2;High;09:17.2;Weak;True;NULL
+135;Wiberg Super Cure;109,641;10;Low;04:21.9;Durable;False;61
+136;Vol Au Vents;243,913;10;Medium;33:43.5;Weak;True;NULL
+137;Wine - White, Schroder And Schyl;840,566;10;Low;30:01.6;Durable;False;NULL
+138;Rum - Coconut, Malibu;526,367;7;Low;02:36.3;Durable;NULL;NULL
+139;Chicken - Wieners;21,423;1;High;40:59.6;Weak;False;NULL
+140;Oregano - Dry, Rubbed;681,326;11;High;30:05.6;Durable;NULL;16
+141;Tea - Herbal Sweet Dreams;10,964;1;Low;08:19.0;Durable;True;37
+142;Pork - Bacon, Double Smoked;247,809;6;Medium;37:54.8;Weak;True;NULL
+143;Watercress;426,169;1;Medium;29:15.6;NULL;True;NULL
+144;Placemat - Scallop, White;957,865;5;Medium;44:25.6;Durable;False;NULL
+145;Wine - Chardonnay South;344,139;9;Low;37:22.8;Durable;NULL;27
+146;Bananas;752,486;7;High;33:16.8;Durable;False;NULL
+147;Cheese - Mozzarella;496,197;5;High;26:02.9;NULL;False;NULL
+148;Beer - Sleemans Cream Ale;285,553;11;Medium;16:43.8;Durable;True;91
+149;Zucchini - Yellow;984,644;10;High;08:07.5;Weak;True;NULL
+150;Langers - Ruby Red Grapfruit;406,552;9;High;39:33.6;Durable;False;NULL
+151;Mushrooms - Black, Dried;935,613;7;High;23:38.6;Weak;True;NULL
+152;Lentils - Red, Dry;588,128;7;Medium;58:29.3;NULL;NULL;26
+153;Arizona - Green Tea;702,382;4;Low;04:22.4;Weak;False;NULL
+154;Ice Cream Bar - Drumstick;24,756;4;Medium;05:31.0;Weak;True;NULL
+155;Peas - Pigeon, Dry;635,524;9;High;39:50.1;Weak;False;NULL
+156;Sprouts - Alfalfa;712,264;1;High;18:03.8;Durable;False;NULL
+157;Juice - Cranberry, 341 Ml;141,082;11;Medium;07:45.3;NULL;False;19
+158;Apricots Fresh;544,643;4;High;44:23.2;NULL;False;18
+159;Eggplant - Asian;921,053;7;Medium;41:34.6;Durable;True;NULL
+160;Beef Ground Medium;546,874;7;Medium;39:50.2;Weak;True;NULL
+161;Longos - Chicken Wings;646,118;10;Low;32:54.5;Weak;NULL;NULL
+162;Sauce - Demi Glace;27,353;11;Medium;01:58.7;Weak;True;117
+163;Tomatoes Tear Drop;117,708;6;Low;58:29.1;NULL;True;116
+164;Loquat;73,982;11;Medium;21:15.2;NULL;False;NULL
+165;Bread Crumbs - Japanese Style;0,0449;6;Low;19:03.7;NULL;False;NULL
+166;Tray - 16in Rnd Blk;232,843;5;High;14:10.8;Durable;False;NULL
+167;Knife Plastic - White;788,615;11;Medium;31:26.8;Durable;False;NULL
+168;Milk - 2%;707,419;6;Medium;50:29.9;NULL;True;29
+169;Water - Aquafina Vitamin;685,996;10;Medium;08:42.3;NULL;False;NULL
+170;Initation Crab Meat;206,553;1;Medium;27:44.8;Durable;False;NULL
+171;Gloves - Goldtouch Disposable;216,794;5;High;14:46.8;Durable;False;NULL
+172;Sherry - Dry;160,013;5;High;45:59.1;Durable;NULL;72
+173;Rosemary - Dry;44,544;8;Low;59:50.5;Durable;False;NULL
+174;Guinea Fowl;615,047;11;High;22:30.8;Durable;True;NULL
+175;Oil - Safflower;917,675;1;Low;36:18.6;Weak;True;52
+176;Smirnoff Green Apple Twist;813,167;6;High;08:59.8;Durable;True;90
+177;Coconut - Shredded, Sweet;691,677;3;Medium;11:02.2;Weak;True;NULL
+178;Pernod;523,623;10;High;14:45.8;Weak;True;NULL
+179;Yoghurt Tubes;838,752;6;Low;04:36.4;Durable;NULL;26
+180;Chocolate - Dark;308,932;3;Low;44:38.6;Durable;True;27
+181;Phyllo Dough;645,718;1;Medium;32:15.1;NULL;False;NULL
+182;Campari;25,586;9;Low;30:57.5;Weak;False;54
+183;Spice - Peppercorn Melange;62,154;4;High;35:37.2;Weak;False;NULL
+184;Hersey Shakes;265,776;9;Low;30:23.3;Weak;True;NULL
+185;Foam Dinner Plate;484,195;6;Low;35:09.1;Weak;NULL;40
+186;Muffin Mix - Blueberry;820,839;8;Low;42:40.2;Weak;False;NULL
+187;Pepper - Black, Whole;413,835;3;Medium;26:45.5;Durable;False;31
+188;Cup - Translucent 7 Oz Clear;781,768;8;High;54:01.9;Durable;False;91
+189;Bread - Roll, Soft White Round;763,021;5;High;29:27.1;NULL;False;16
+190;Cake - Cake Sheet Macaroon;397,378;9;Medium;46:18.1;Durable;True;93
+191;Hickory Smoke, Liquid;10,283;10;High;25:58.2;Weak;NULL;NULL
+192;Wine - Magnotta, Merlot Sr Vqa;295,923;7;Medium;45:38.4;Durable;NULL;NULL
+193;Veal - Inside, Choice;605,314;11;Medium;21:01.7;NULL;False;19
+194;Lettuce - Frisee;667,357;6;Medium;01:09.3;NULL;False;NULL
+195;Beets - Mini Golden;35,208;2;Medium;57:11.0;Durable;NULL;70
+196;Longos - Grilled Salmon With Bbq;82,286;1;High;06:20.3;NULL;NULL;NULL
+197;Mussels - Cultivated;130,101;1;Medium;39:25.8;NULL;True;NULL
+198;Lime Cordial - Roses;352,187;1;Low;08:00.4;Durable;False;60
+199;Pork - Hock And Feet Attached;957,415;10;Medium;25:21.9;Weak;NULL;105
+200;Garlic - Peeled;111,295;5;Medium;23:12.0;Weak;False;NULL
+201;Grenadine;963,871;8;Medium;01:50.0;Weak;True;117
+202;Bay Leaf;788,778;11;Low;35:33.0;Weak;True;NULL
+203;Chicken - Leg, Boneless;599,557;1;High;08:01.6;Weak;NULL;29
+204;Scallop - St. Jaques;77,809;9;Medium;40:22.7;Durable;True;5
+205;Turkey - Whole, Fresh;189,757;5;High;24:46.8;Weak;False;32
+206;Cocoa Butter;77,56;3;Low;37:39.4;NULL;NULL;NULL
+207;Coffee - Hazelnut Cream;142,688;10;Medium;58:38.8;NULL;True;116
+208;Mushroom - Trumpet, Dry;87,335;5;Medium;41:51.6;Weak;False;15
+209;Sugar - Fine;329,885;3;Low;29:12.4;NULL;NULL;NULL
+210;Cheese - Brie,danish;822,358;3;High;30:50.3;NULL;NULL;NULL
+211;Wine - Prosecco Valdobiaddene;20,587;9;Low;07:01.6;NULL;True;76
+212;Curry Paste - Madras;61,746;2;High;52:59.6;Weak;True;97
+213;Pate - Cognac;705,891;10;High;39:46.8;Weak;True;39
+214;French Pastry - Mini Chocolate;612,121;5;Low;56:56.0;Durable;NULL;NULL
+215;Veal - Brisket, Provimi,bnls;901,157;7;High;07:35.2;Weak;NULL;92
+216;Scallops - 10/20;390,257;1;Low;01:57.0;NULL;NULL;NULL
+217;Bread - Multigrain;96,52;8;Medium;26:21.5;Durable;True;NULL
+218;Barramundi;851,933;8;High;28:05.7;Weak;True;31
+219;Assorted Desserts;589,787;5;Low;46:06.1;Durable;False;NULL
+220;Meldea Green Tea Liquor;17,961;10;Low;36:23.5;Weak;False;NULL
+221;Bread Crumbs - Panko;819,008;3;Low;47:25.2;NULL;False;NULL
+222;Sole - Dover, Whole, Fresh;0,6846;3;High;37:24.9;NULL;False;NULL
+223;Pail With Metal Handle 16l White;944,399;1;Medium;21:02.8;NULL;NULL;NULL
+224;Flour - Pastry;288,618;1;High;22:24.2;Weak;False;NULL
+225;Wine - Charddonnay Errazuriz;103,722;3;Medium;01:46.5;Weak;NULL;NULL
+226;Chestnuts - Whole,canned;920,872;10;Medium;29:08.4;Durable;True;NULL
+227;Cheese - Taleggio D.o.p.;554,699;5;Low;24:57.4;Weak;False;NULL
+228;Sauce - Hollandaise;778,083;3;High;58:41.2;Durable;NULL;93
+229;Bread - Hot Dog Buns;579,838;9;Medium;25:19.8;Weak;False;66
+230;Wine - Cahors Ac 2000, Clos;835,389;11;Medium;29:58.3;Weak;False;75
+231;Crush - Cream Soda;683,066;5;Medium;29:34.1;NULL;True;NULL
+232;Quiche Assorted;33,949;3;Medium;03:01.8;Weak;False;NULL
+233;Duck - Breast;566,209;11;Low;49:23.9;Durable;True;NULL
+234;Tofu - Firm;727,457;1;Medium;41:24.4;Weak;NULL;NULL
+235;Bread - English Muffin;345,061;6;High;42:48.6;Durable;False;NULL
+236;Tomato - Tricolor Cherry;85,694;1;Low;56:42.0;NULL;True;113
+237;Mayonnaise - Individual Pkg;656,303;8;Low;22:56.0;Weak;False;94
+238;Garlic;284,065;6;Medium;55:14.4;Durable;False;NULL
+239;Soup - Campbells, Cream Of;76,019;5;Medium;05:36.5;Weak;True;NULL
+240;Wine - Chablis 2003 Champs;708,596;4;Low;57:29.6;Weak;False;NULL
+241;Cheese - Cheddarsliced;678,151;9;Medium;44:01.4;NULL;NULL;NULL
+242;Thermometer Digital;32,65;9;Low;44:53.9;Weak;False;11
+243;Sun - Dried Tomatoes;451,883;6;Medium;24:49.5;Weak;False;104
+244;Beef - Rib Eye Aaa;940,664;2;Low;58:36.8;NULL;True;NULL
+245;Grouper - Fresh;376,791;1;Medium;39:16.5;Weak;NULL;111
+246;Ice Cream Bar - Hageen Daz To;485,371;9;Low;32:58.6;Weak;False;96
+247;Juice - Apple Cider;590,033;9;High;05:51.6;Weak;False;58
+248;Beef - Inside Round;993,193;7;Low;24:05.7;NULL;NULL;NULL
+249;Cookie Dough - Double;766,201;10;Medium;53:34.2;Weak;True;NULL
+250;Soup - Campbells, Beef Barley;644,951;1;Low;55:14.0;Durable;False;NULL
+251;Oranges - Navel, 72;117,087;5;Low;39:58.8;Weak;True;7
+252;Nantucket - Pomegranate Pear;278,169;4;Medium;11:20.0;Weak;NULL;83
+253;Wanton Wrap;76,24;7;High;21:54.3;NULL;NULL;NULL
+254;Soup - Canadian Pea, Dry Mix;777,804;1;Low;48:58.4;Weak;True;NULL
+255;Kellogs All Bran Bars;292,287;3;Low;35:46.8;Weak;False;NULL
+256;Soup Knorr Chili With Beans;957,024;6;Medium;24:25.1;Durable;NULL;NULL
+257;Pasta - Detalini, White, Fresh;84,438;11;High;14:30.3;Durable;NULL;NULL
+258;Tea - English Breakfast;310,939;1;Low;45:37.4;Weak;NULL;NULL
+259;Veal - Eye Of Round;674,367;7;High;38:36.2;NULL;True;71
+260;Yogurt - Blueberry, 175 Gr;268,886;7;Low;55:38.4;Durable;False;31
+261;Chinese Foods - Chicken;220,901;9;High;12:42.0;Durable;True;NULL
+262;Bagel - Plain;364,605;7;Medium;59:57.6;Durable;NULL;41
+263;Soupfoamcont12oz 112con;507,497;7;Low;16:31.8;Weak;False;NULL
+264;Juice - V8 Splash;494,497;3;High;59:14.1;Durable;True;NULL
+265;Mushroom - Porcini, Dry;139,292;10;Medium;01:16.3;Weak;NULL;7
+266;Clam Nectar;681,097;7;High;03:59.7;Weak;NULL;NULL
+267;Grapes - Red;5,125;2;Medium;03:35.7;NULL;True;NULL
+268;Vanilla Beans;978,435;9;Low;58:22.3;Durable;False;NULL
+269;Wine - Blue Nun Qualitatswein;26,706;11;Medium;14:07.4;Durable;True;NULL
+270;Cheese Cloth No 100;44,216;6;Medium;10:53.1;Durable;NULL;101
+271;Banana - Leaves;733,954;5;High;39:01.1;NULL;True;NULL
+272;Chocolate - Semi Sweet, Calets;681,134;2;Low;31:07.1;Weak;True;13
+273;Bandage - Flexible Neon;775,913;4;Medium;22:29.3;Weak;NULL;NULL
+274;Papayas;881,192;2;Low;48:36.4;Weak;False;NULL
+275;Corn Meal;50,146;1;Medium;52:22.1;Durable;True;88
+276;Snapple - Iced Tea Peach;492,508;5;High;02:31.3;NULL;True;NULL
+277;Sea Bass - Whole;554,964;9;Medium;12:35.4;Durable;NULL;118
+278;Apricots - Halves;0,3735;11;Medium;22:26.0;Weak;False;87
+279;Beef - Texas Style Burger;911,828;1;Low;43:07.7;Durable;True;NULL
+280;Onion Powder;618,352;5;Medium;28:47.9;Durable;False;NULL
+281;Bar Mix - Pina Colada, 355 Ml;330,839;2;High;23:16.8;Durable;True;NULL
+282;Lemonade - Natural, 591 Ml;561,506;10;Low;00:51.7;Durable;False;88
+283;Bread Fig And Almond;11,882;4;Low;05:07.0;Durable;False;NULL
+284;Beer - Rickards Red;934,888;9;Low;30:05.8;Weak;False;NULL
+285;Cheese - Mix;718,302;7;Low;49:59.5;NULL;NULL;107
+286;Beef - Prime Rib Aaa;404,897;2;Low;18:14.0;Durable;False;29
+287;Bread - Italian Roll With Herbs;57,709;7;Medium;41:07.5;Durable;True;NULL
+288;Orange - Canned, Mandarin;788,405;11;Low;00:25.5;Durable;True;NULL
+289;Sword Pick Asst;435,169;10;Low;05:37.6;Durable;False;NULL
+290;Sauce - Rosee;388,037;1;Low;18:23.5;NULL;True;110
+291;Crab - Dungeness, Whole;12,559;2;Medium;42:11.8;NULL;False;NULL
+292;Turkey - Oven Roast Breast;345,364;8;Low;37:18.6;NULL;False;NULL
+293;Garlic - Elephant;609,698;11;Medium;16:38.2;Durable;NULL;NULL
+294;Wine - Alsace Gewurztraminer;807,133;10;Low;09:58.1;Weak;NULL;18
+295;Ice - Clear, 300 Lb For Carving;487,695;7;Low;44:47.6;NULL;True;NULL
+296;Wine - Valpolicella Masi;313,545;3;Low;44:03.9;Weak;False;90
+297;Hinge W Undercut;819,003;3;Low;28:22.1;Durable;True;120
+298;Pop Shoppe Cream Soda;957,387;4;Medium;25:35.3;NULL;False;NULL
+299;Fuji Apples;801,371;4;Medium;57:20.5;NULL;False;NULL
+300;Beans - Kidney, Canned;695,694;5;Medium;35:16.8;NULL;True;NULL
+301;Beer - Labatt Blue;43,412;8;Medium;29:22.9;Weak;NULL;NULL
+302;Doilies - 5, Paper;611,598;11;Medium;07:29.3;Durable;NULL;NULL
+303;Cod - Black Whole Fillet;726,133;7;High;09:58.3;NULL;False;NULL
+304;Banana Turning;721,984;5;High;42:41.0;NULL;True;NULL
+305;Pastry - Cheese Baked Scones;910,997;8;Medium;16:12.9;Weak;True;19
+306;Pepper - White, Ground;435,953;4;Low;08:51.8;Durable;True;117
+307;Foam Cup 6 Oz;502,256;1;High;48:50.8;Durable;NULL;NULL
+308;Tea - Decaf Lipton;881,209;6;High;33:17.9;Durable;NULL;NULL
+309;Muffin Batt - Choc Chk;276,344;11;Medium;56:36.3;Durable;True;76
+310;Coffee - Dark Roast;79,978;9;Low;33:15.5;Weak;False;NULL
+311;Wonton Wrappers;40,206;9;High;11:49.6;Weak;NULL;56
+312;Salmon - Sockeye Raw;840,645;1;Low;52:04.2;Weak;True;54
+313;Veal - Slab Bacon;399,111;11;High;02:29.7;NULL;NULL;116
+314;Salmon Steak - Cohoe 8 Oz;56,015;2;Medium;09:48.3;NULL;True;82
+315;Wine - Gato Negro Cabernet;938,047;6;Medium;32:21.6;NULL;True;NULL
+316;Cheese - Victor Et Berthold;659,395;11;High;11:50.3;Weak;False;94
+317;Water - Green Tea Refresher;352,723;3;Low;54:50.6;Weak;False;NULL
+318;Ecolab - Solid Fusion;57,261;10;High;46:26.0;NULL;NULL;76
+319;Towels - Paper / Kraft;776,195;7;High;09:14.6;NULL;NULL;NULL
+320;Yogurt - French Vanilla;734,396;9;Low;43:02.2;NULL;NULL;NULL
+321;Potatoes - Instant, Mashed;104,007;1;Medium;22:52.2;Durable;NULL;NULL
+322;Onions - Vidalia;262,846;2;Medium;03:10.2;NULL;NULL;NULL
+323;Extract - Lemon;543,266;10;High;52:44.8;Weak;False;99
+324;Apricots - Dried;879,023;10;Low;55:43.8;Durable;True;42
+325;Halibut - Fletches;31,657;5;Low;28:41.4;NULL;True;87
+326;Appetizer - Mushroom Tart;38,859;9;High;01:42.5;NULL;False;NULL
+327;Appetizer - Mini Egg Roll, Shrimp;71,436;2;Medium;14:28.8;NULL;False;NULL
+328;Tuna - Salad Premix;968,781;6;Medium;12:31.2;Durable;True;35
+329;Pork - Loin, Center Cut;393,496;6;High;03:48.8;Weak;True;NULL
+330;Olives - Kalamata;187,914;10;Medium;08:18.2;NULL;False;NULL
+331;Cookies Cereal Nut;673,505;3;High;34:09.2;Durable;NULL;80
+332;Bouq All Italian - Primerba;597,578;5;Low;47:00.1;NULL;False;NULL
+333;Cheese - Cottage Cheese;202,364;7;High;25:05.5;Weak;False;NULL
+334;Ecolab - Lime - A - Way 4/4 L;216,133;7;High;07:50.9;Weak;True;NULL
+335;Oil - Shortening,liqud, Fry;184,231;9;Low;59:25.0;Weak;NULL;84
+336;Broom - Corn;719,241;2;Low;15:47.5;Durable;True;NULL
+337;Bread - Rye;835,373;3;Low;50:53.4;Durable;True;NULL
+338;Cheese - Camembert;289,899;11;Low;22:26.0;Durable;NULL;NULL
+339;Beef - Striploin Aa;2,389;2;Medium;13:52.8;Weak;NULL;NULL
+340;Veal - Sweetbread;282,349;3;High;41:07.7;Durable;True;NULL
+341;Bread - Roll, Canadian Dinner;902,641;1;Low;29:23.2;Weak;True;NULL
+342;Mangoes;695,881;1;Medium;07:49.6;NULL;False;51
+343;Otomegusa Dashi Konbu;512,061;1;High;03:49.2;Durable;False;NULL
+344;Sausage - Liver;635,389;2;Low;32:22.1;NULL;False;114
+345;Bread - Calabrese Baguette;985,978;4;Medium;06:33.9;Durable;False;67
+346;Cheese - Parmesan Grated;171,914;1;Low;50:07.5;NULL;True;NULL
+347;Pail For Lid 1537;946,253;8;Low;34:48.9;NULL;True;NULL
+348;Pasta - Cheese / Spinach Bauletti;553,683;10;Low;06:49.9;Durable;True;54
+349;Puree - Mocha;869,086;4;Medium;37:36.4;NULL;True;NULL
+350;Isomalt;82,83;8;Low;32:57.4;NULL;True;NULL
+351;Hot Chocolate - Individual;960,823;1;High;49:13.3;Durable;NULL;NULL
+352;Beef - Tenderlion, Center Cut;246,393;4;Low;41:56.1;NULL;False;5
+353;Milk Powder;181,191;8;Medium;16:20.7;Weak;True;80
+354;Crackers Cheez It;66,975;7;Medium;14:18.3;NULL;False;NULL
+355;Olives - Stuffed;591,687;5;Low;12:24.5;Durable;False;12
+356;Dc - Frozen Momji;171,274;6;High;26:12.7;Durable;NULL;NULL
+357;Tilapia - Fillets;68,332;2;Medium;14:44.5;Durable;False;NULL
+358;Cheese - Boursin, Garlic / Herbs;847,111;9;Medium;14:14.5;NULL;True;NULL
+359;Rice - Long Grain;690,327;11;High;13:59.7;Durable;True;96
+360;Wine - Hardys Bankside Shiraz;522,407;10;Medium;14:30.5;Durable;True;89
+361;Coffee Decaf Colombian;364,516;2;Medium;54:23.0;Weak;True;71
+362;Cumin - Whole;533,476;7;Medium;36:19.6;Durable;NULL;NULL
+363;Cornflakes;487,712;11;High;29:29.1;NULL;True;NULL
+364;Cattail Hearts;88,429;1;High;48:18.1;NULL;NULL;NULL
+365;Wine - Red, Harrow Estates, Cab;126,274;7;Medium;59:06.3;Weak;True;95
+366;Tahini Paste;804,483;4;High;24:49.5;NULL;False;NULL
+367;Bread - Italian Corn Meal Poly;638,281;5;Medium;26:58.7;NULL;True;65
+368;Flour - Teff;182,978;4;Low;54:38.7;NULL;False;NULL
+369;Rambutan;871,785;5;Medium;10:23.3;NULL;True;10
+370;Muffin - Carrot Individual Wrap;218,806;4;Low;16:34.1;Weak;True;NULL
+371;Creme De Banane - Marie;824,022;8;High;20:56.9;Durable;NULL;NULL
+372;Wine - Two Oceans Cabernet;62,824;3;Low;32:24.6;NULL;True;NULL
+373;Beef - Montreal Smoked Brisket;548,719;9;Medium;32:33.2;Durable;False;NULL
+374;Jagermeister;493,846;5;Low;28:06.9;Durable;False;NULL
+375;Snapple Lemon Tea;831,755;8;High;13:39.0;NULL;True;80
+376;Pasta - Angel Hair;408,126;11;High;15:02.6;Durable;True;51
+377;Wine - Red, Cooking;750,785;1;Medium;59:21.1;Durable;False;7
+378;Bread Foccacia Whole;907,877;9;High;20:22.7;Durable;False;NULL
+379;Smoked Paprika;893,046;7;High;49:09.9;NULL;False;81
+380;Wine - White Cab Sauv.on;859,743;4;High;38:33.8;NULL;True;NULL
+381;Vaccum Bag 10x13;442,337;1;High;26:53.6;NULL;NULL;41
+382;Soup - Campbells Bean Medley;517,754;4;Medium;07:38.9;Weak;NULL;NULL
+383;Cake - Box Window 10x10x2.5;99,694;2;High;34:54.7;Weak;NULL;NULL
+384;Fond - Neutral;565,197;10;High;30:51.4;NULL;True;105
+385;Pork - Back, Short Cut, Boneless;227,091;10;High;19:04.9;Durable;False;97
+386;Sprouts - Baby Pea Tendrils;427,112;10;Medium;52:13.1;Weak;False;NULL
+387;Fondant - Icing;416,386;9;High;30:39.4;Durable;False;100
+388;Table Cloth 120 Round White;135,389;1;Medium;10:47.3;Durable;True;NULL
+389;Pomello;624,447;3;Medium;55:26.4;NULL;NULL;103
+390;Seedlings - Mix, Organic;12,956;3;Low;33:12.3;NULL;False;NULL
+391;Bread - Bistro White;650,908;1;Medium;01:03.0;NULL;True;72
+392;Puree - Passion Fruit;988,263;5;High;36:38.8;NULL;True;33
+393;Olive - Spread Tapenade;599,572;1;Low;08:26.3;NULL;NULL;NULL
+394;Rum - Mount Gay Eclipes;501,484;3;High;59:22.3;Durable;True;76
+395;Juice - Lime;917,833;1;Low;46:44.7;Weak;True;NULL
+396;Tea - Jasmin Green;369,165;6;High;53:03.6;Durable;False;NULL
+397;Juice - Happy Planet;208,169;1;Medium;38:20.5;Weak;False;70
+398;Wine - Wyndham Estate Bin 777;423,632;11;High;15:31.1;Weak;True;67
+399;Berry Brulee;509,114;6;Medium;33:15.7;NULL;True;NULL
+400;Carbonated Water - Blackcherry;181,495;1;High;41:44.3;Durable;True;NULL
+401;Tart Shells - Sweet, 4;533,634;8;High;23:08.8;NULL;NULL;51
+402;Butter - Unsalted;763,275;5;High;40:10.2;Durable;NULL;6
+403;Liners - Baking Cups;681,898;5;Medium;56:26.6;NULL;NULL;NULL
+404;Pants Custom Dry Clean;65,028;1;Medium;21:02.3;Durable;False;NULL
+405;Pastry - Raisin Muffin - Mini;0,4278;11;Medium;12:00.5;Durable;True;NULL
+406;Shrimp - Baby, Warm Water;897,999;9;High;16:48.7;Durable;False;NULL
+407;Pepsi - Diet, 355 Ml;697,674;7;High;09:22.8;Weak;False;NULL
+408;Blueberries;687,346;4;Low;48:13.7;NULL;False;NULL
+409;Skirt - 29 Foot;23,522;11;Medium;00:39.3;Durable;NULL;NULL
+410;Fenngreek Seed;18,356;6;Low;57:21.9;NULL;NULL;91
+411;Durian Fruit;420,489;6;Low;26:51.6;NULL;True;NULL
+412;Lettuce - California Mix;160,456;5;High;54:21.8;Weak;True;NULL
+413;Ice Cream Bar - Oreo Cone;954,065;3;High;25:04.6;Durable;False;5
+414;Sauerkraut;830,585;7;Low;35:25.8;Durable;NULL;87
+415;Mussels - Frozen;80,069;10;High;47:36.9;Durable;False;NULL
+416;Baking Powder;846,763;10;Low;46:44.1;Weak;True;NULL
+417;Lamb - Pieces, Diced;433,781;5;Medium;01:24.9;NULL;NULL;12
+418;Truffle Cups - Brown;922,516;2;Low;58:37.6;NULL;True;NULL
+419;Pork - Belly Fresh;861,338;3;Low;29:13.2;Weak;True;8
+420;Whmis - Spray Bottle Trigger;699,163;9;High;06:53.2;Weak;True;NULL
+421;Soup V8 Roasted Red Pepper;388,096;6;High;54:10.2;Durable;False;NULL
+422;Garlic - Primerba, Paste;502,892;5;High;16:11.4;Weak;NULL;60
+423;Fish - Scallops, Cold Smoked;558,531;2;Medium;59:12.3;NULL;NULL;35
+424;Vinegar - Tarragon;858,828;3;Medium;37:11.0;NULL;False;NULL
+425;Wine - Redchard Merritt;567,898;4;Medium;15:31.2;Weak;NULL;NULL
+426;Scallops - Live In Shell;835,759;3;Low;44:18.0;NULL;NULL;NULL
+427;Wine - Vineland Estate Semi - Dry;463,252;3;High;23:58.3;Durable;False;NULL
+428;Wine - Ruffino Chianti;47,235;7;Medium;33:10.9;NULL;True;48
+429;Beef - Short Loin;576,013;4;High;41:22.2;Weak;False;NULL
+430;Milk - 1%;462,589;2;Low;20:35.3;Durable;False;84
+431;Muffin Chocolate Individual Wrap;199,957;10;Medium;36:42.1;Weak;False;89
+432;Beer - Original Organic Lager;327,153;2;High;43:50.0;NULL;False;44
+433;Beans - Kidney, Red Dry;398,762;3;Low;47:07.0;Durable;False;11
+434;Cookie - Dough Variety;711,551;7;Low;07:25.5;Weak;True;NULL
+435;Salsify, Organic;326,109;8;High;15:25.0;Durable;True;NULL
+436;Table Cloth 81x81 White;679,063;7;High;46:43.4;NULL;False;25
+437;Chips Potato All Dressed - 43g;835,856;10;High;11:12.2;Durable;NULL;NULL
+438;Juice - Orange;449,415;2;Low;13:52.4;Durable;NULL;NULL
+439;Beef - Chuck, Boneless;560,919;11;Medium;18:51.0;NULL;False;108
+440;Pork - Inside;329,092;1;Low;02:16.2;NULL;NULL;NULL
+441;Blackberries;729,439;3;Medium;42:50.3;Weak;NULL;NULL
+442;Wine - Ej Gallo Sierra Valley;729,041;6;Medium;42:25.6;NULL;NULL;106
+443;Lettuce - Spring Mix;900,169;2;Low;10:08.0;NULL;False;79
+444;Cheese - Cambozola;440,886;8;Low;58:04.5;Durable;NULL;56
+445;Pastry - Choclate Baked;592,467;8;High;06:20.6;Weak;NULL;76
+446;Sunflower Seed Raw;490,452;7;High;06:41.1;NULL;NULL;18
+447;Salmon - Atlantic, Skin On;34,198;3;High;11:34.2;NULL;True;NULL
+448;Gatorade - Xfactor Berry;768,988;5;Low;33:00.5;NULL;False;NULL
+449;Nantuket Peach Orange;421,414;4;Low;11:45.4;NULL;False;NULL
+450;Wine - Vidal Icewine Magnotta;7,107;3;Low;00:00.6;NULL;NULL;NULL
+451;Soup - Campbells Tomato Ravioli;935,384;1;Low;51:38.8;Durable;False;NULL
+452;Napkin White - Starched;285,653;11;Low;39:42.9;Durable;NULL;NULL
